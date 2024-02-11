@@ -1,0 +1,28 @@
+
+.root{
+    display: flex;
+    justify-content: center;
+}
+.Titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+.Contenedor{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card img{
+    width: 286px;
+    height: 300px;
+}
+
+footer{
+    padding: 50px;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
